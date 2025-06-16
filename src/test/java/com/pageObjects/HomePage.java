@@ -39,8 +39,8 @@ public class HomePage {
 		wd.findElement(By.xpath("//p[text()='"+tcity+"']")).click();
 	}
 	public void DDate() {
-		wd.findElement(By.xpath("//div[@aria-label='Sun Apr 20 2025']")).click();
-		wd.findElement(By.xpath("//div[@aria-label='Sat Apr 26 2025']")).click();
+		wd.findElement(By.xpath("//div[@aria-label='Tue Jun 24 2025']")).click();
+		wd.findElement(By.xpath("//div[@aria-label='Sat Jun 28 2025']")).click();
 	}
 	
 	public void Search() {

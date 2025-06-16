@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-12T14:20:47 IST" name="Suite" finished-at="2025-04-12T14:21:15 IST" duration-ms="27658">
+  <suite started-at="2025-06-16T11:08:05 IST" name="Suite" finished-at="2025-06-16T11:08:30 IST" duration-ms="24892">
     <groups>
     </groups>
-    <test started-at="2025-04-12T14:20:47 IST" name="Test" finished-at="2025-04-12T14:21:15 IST" duration-ms="27658">
+    <test started-at="2025-06-16T11:08:05 IST" name="Test" finished-at="2025-06-16T11:08:30 IST" duration-ms="24892">
       <class name="com.testCases.TC_001">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.testCases.TC_001@5d534f5d]" started-at="2025-04-12T14:20:47 IST" name="setup" finished-at="2025-04-12T14:20:59 IST" duration-ms="11490" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testCases.TC_001@7b9a4292]" started-at="2025-06-16T11:08:05 IST" name="setup" finished-at="2025-06-16T11:08:18 IST" duration-ms="13100" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="BookTicket()[pri:0, instance:com.testCases.TC_001@5d534f5d]" started-at="2025-04-12T14:20:59 IST" name="BookTicket" finished-at="2025-04-12T14:21:13 IST" duration-ms="13846" status="PASS">
+        <test-method signature="BookTicket()[pri:0, instance:com.testCases.TC_001@7b9a4292]" started-at="2025-06-16T11:08:18 IST" name="BookTicket" finished-at="2025-06-16T11:08:27 IST" duration-ms="9402" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BookTicket -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testCases.TC_001@5d534f5d]" started-at="2025-04-12T14:21:13 IST" name="teardown" finished-at="2025-04-12T14:21:15 IST" duration-ms="2217" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testCases.TC_001@7b9a4292]" started-at="2025-06-16T11:08:28 IST" name="teardown" finished-at="2025-06-16T11:08:30 IST" duration-ms="2300" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

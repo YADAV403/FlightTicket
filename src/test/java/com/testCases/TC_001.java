@@ -30,6 +30,7 @@ public class TC_001 {
 		hp.SCity("Pune, India");
 		hp.DCity("Hyderabad, India");
 		hp.DDate();
+		Thread.sleep(2000);
 		hp.Search();
 	}
 	

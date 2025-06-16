@@ -6,6 +6,7 @@
       <class name="com.testCases.TC_001">
         <methods>
           <include name="BookTicket"/>
+          <include name="teardown"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.testCases.TC_001 -->
